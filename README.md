@@ -1,8 +1,11 @@
-# React + Vite
+# Review Card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Deskripsi
 
-Currently, two official plugins are available:
+Review Card adalah aplikasi React sederhana yang menampilkan ulasan pengguna dengan gambar, pekerjaan, nama, dan teks ulasan. Pengguna dapat menavigasi antara ulasan menggunakan tombol "Next" dan "Prev", atau memilih ulasan secara acak menggunakan tombol "Random".
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Fitur
+
+- Menampilkan ulasan pengguna dengan gambar, pekerjaan, nama, dan teks.
+- Navigasi ke ulasan berikutnya dan sebelumnya.
+- Menampilkan ulasan secara acak
